@@ -1,0 +1,22 @@
+.title{
+	margin-top:5%;
+	margin-bottom: 3%;
+}
+
+.ad img{
+	height: 200px;
+}
+
+.card-img-overlay{
+	cursor: pointer;
+	font-size:40px;
+	font-weight: 1000;
+	/*position: relative;*/
+}
+
+.card-img-overlay .ad-desc{
+	font-weight: 400;
+	margin-bottom: 0;
+}
+
+
